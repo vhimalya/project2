@@ -4,6 +4,7 @@
     <Page id="page" title="My Fist FIORI app">
         <content>
             <Button text="Click" />
+            <Button text="Click 2" />
         </content>
     </Page>
 </mvc:View>
