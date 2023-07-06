@@ -1,0 +1,9 @@
+<mvc:View controllerName="himP.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="My Fist FIORI app">
+        <content>
+            <Button text="Click" />
+        </content>
+    </Page>
+</mvc:View>
